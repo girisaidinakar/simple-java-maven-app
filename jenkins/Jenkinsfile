@@ -23,7 +23,7 @@ pipeline {
         }
           stage ('Finish') {
                 steps {
-                echo "This is the final stage"
+                echo "This is the final stage of the java project"
             }   
           } 
     }
